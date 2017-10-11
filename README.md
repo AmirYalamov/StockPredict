@@ -11,6 +11,7 @@ $ pip3 install tensorflow
 $ pip3 install keras
 $ pip3 install requests
 ```
+For scipy, go to https://stackoverflow.com/questions/26575587/cant-install-scipy-through-pip and refer to 4th answer to install if not working (Windows 10).
 
 # Step 2
 
